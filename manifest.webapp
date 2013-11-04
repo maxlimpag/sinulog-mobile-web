@@ -1,0 +1,20 @@
+{
+	"version": "1.0",
+	"name": "Sinulog",
+	"description": "Your guide to the Sinulog Festival in Cebu",
+	"launch_path": "/index.html",
+	"appcache_path": "/offline.appcache",
+	"icons": {
+		"16": "/img/icons/appicon-16.png",
+		"48": "/img/icons/appicon-48.png",
+		"60": "/img/icons/appicon-60.png",
+		"90": "/img/icons/appicon-90.png",
+		"128": "/img/icons/appicon-128.png"
+	},
+	"developer": {
+		"name": "InnoPub",
+		"url": "http://innopub.com"
+	},
+
+	"default_locale": "en",
+}
